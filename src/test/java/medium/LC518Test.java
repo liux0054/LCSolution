@@ -1,5 +1,9 @@
+package medium;
+
 import org.junit.Assert;
 import org.junit.Test;
+
+import medium.LC518;
 
 public class LC518Test {
 

@@ -1,3 +1,5 @@
+package medium;
+
 public class LC91 {
     public int numDecodings(String s) {
         int[] numberOfMethods = new int[s.length()+1];

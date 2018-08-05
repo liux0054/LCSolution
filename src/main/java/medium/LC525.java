@@ -1,3 +1,5 @@
+package medium;
+
 public class LC525 {
 
     public int findMaxLength(int[] nums) {

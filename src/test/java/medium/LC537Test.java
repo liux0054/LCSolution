@@ -1,5 +1,9 @@
+package medium;
+
 import org.junit.Assert;
 import org.junit.Test;
+
+import medium.LC537;
 
 public class LC537Test {
 
