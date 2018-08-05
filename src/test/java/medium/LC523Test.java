@@ -3,8 +3,6 @@ package medium;
 import org.junit.Assert;
 import org.junit.Test;
 
-import medium.LC523;
-
 public class LC523Test {
 
     @Test

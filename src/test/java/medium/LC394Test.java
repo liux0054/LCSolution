@@ -3,7 +3,6 @@ package medium;
 import org.junit.Assert;
 import org.junit.Test;
 
-import medium.LC394;
 
 public class LC394Test {
 
