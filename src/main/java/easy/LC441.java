@@ -3,8 +3,7 @@ package easy;
 public class LC441 {
 
     public int arrangeCoins(int n) {
-        //minimum k such that (1+k)*k > n
-        int k = (int) Math.sqrt(n);
+        int k = (int) (Math.sqrt(n) * Math.sqrt(2));
         while(k * (k+1) < 2 * n){
             k++;
         }
