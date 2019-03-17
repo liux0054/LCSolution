@@ -24,4 +24,9 @@ public class LC35Test {
     public void testCase5(){
         Assert.assertEquals(0, new LC35().searchInsert(new int[]{1,3,5,6}, 0));
     }
+
+    @Test
+    public void testCase6(){
+        Assert.assertEquals(1, new LC35().searchInsert(new int[]{1}, 2));
+    }
 }
