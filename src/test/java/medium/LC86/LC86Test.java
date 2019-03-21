@@ -3,6 +3,8 @@ package medium.LC86;
 import org.junit.Assert;
 import org.junit.Test;
 
+import medium.LC86;
+
 public class LC86Test {
 
     @Test
