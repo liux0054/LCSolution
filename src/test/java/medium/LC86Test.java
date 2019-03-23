@@ -1,9 +1,9 @@
-package medium.LC86;
+package medium;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import medium.LC86;
+import common.ListNode;
 
 public class LC86Test {
 

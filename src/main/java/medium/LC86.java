@@ -1,5 +1,7 @@
 package medium;
 
+import common.ListNode;
+
 public class LC86 {
 
     public ListNode partition(ListNode head, int x) {
