@@ -36,7 +36,7 @@ public class LC508 {
         if(root.right != null){
             currentSum += getSum(root.right);
         }
-        count.put(currentSum, count.containsKey(currentSum) ? count.get(currentSum)+1 : 1);
+        count.put(currentSum, count.containsKey(currentSum) ? (count.get(currentSum)+1) : 1);
         return currentSum;
     }
 }
