@@ -1,11 +1,11 @@
 //package medium;
 //
-//import org.junit.Test;
+//import org.junit.LCTest;
 //
 //import common.TreeNode;
 //
 //public class LC450Test {
-//    @Test
+//    @LCTest
 //    public void testCase1(){
 //        TreeNode root = new TreeNode(5);
 //        root.left = new TreeNode(3);
