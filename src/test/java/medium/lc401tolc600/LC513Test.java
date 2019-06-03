@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 import common.TreeNode;
-import medium.lc401tolc600.LC513;
+import medium.LC513;
 
 public class LC513Test {
     @Test

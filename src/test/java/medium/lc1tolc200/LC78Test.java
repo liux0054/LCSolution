@@ -7,7 +7,7 @@ import java.util.List;
 import org.junit.Assert;
 import org.junit.Test;
 
-import medium.lc1tolc200.LC78;
+import medium.LC78;
 
 public class LC78Test {
     @Test

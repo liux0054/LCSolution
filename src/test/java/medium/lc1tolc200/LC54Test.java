@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-import medium.lc1tolc200.LC54;
+import medium.LC54;
 
 public class LC54Test {
 

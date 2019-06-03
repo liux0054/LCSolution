@@ -5,7 +5,7 @@ import java.util.Arrays;
 import org.junit.Assert;
 import org.junit.Test;
 
-import medium.lc601tolc800.LC756;
+import medium.LC756;
 
 public class LC756Test {
 

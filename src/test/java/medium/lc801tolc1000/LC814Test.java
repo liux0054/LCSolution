@@ -3,7 +3,7 @@ package medium.lc801tolc1000;
 import org.junit.Test;
 
 import common.TreeNode;
-import medium.lc801tolc1000.LC814;
+import medium.LC814;
 
 public class LC814Test {
     @Test

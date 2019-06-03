@@ -3,7 +3,7 @@ package medium.lc201tolc400;
 import org.junit.Assert;
 import org.junit.Test;
 
-import medium.lc201tolc400.LC343;
+import medium.LC343;
 
 public class LC343Test {
     @Test

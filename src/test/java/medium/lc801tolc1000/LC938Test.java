@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 import common.TreeNode;
-import medium.lc801tolc1000.LC938;
+import medium.LC938;
 
 public class LC938Test {
 

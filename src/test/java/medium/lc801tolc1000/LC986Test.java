@@ -3,7 +3,7 @@ package medium.lc801tolc1000;
 import org.junit.Assert;
 import org.junit.Test;
 
-import medium.lc801tolc1000.LC986;
+import medium.LC986;
 
 public class LC986Test {
 

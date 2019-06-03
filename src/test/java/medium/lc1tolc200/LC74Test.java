@@ -3,6 +3,8 @@ package medium.lc1tolc200;
 import org.junit.Assert;
 import org.junit.Test;
 
+import medium.LC74;
+
 public class LC74Test {
 
     @Test

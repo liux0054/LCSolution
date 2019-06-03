@@ -4,7 +4,7 @@ package medium.lc201tolc400;
 import org.junit.Assert;
 import org.junit.Test;
 
-import medium.lc201tolc400.LC398;
+import medium.LC398;
 
 public class LC398Test {
 

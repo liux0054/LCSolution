@@ -2,6 +2,8 @@ package medium.lc1tolc200;
 
 import org.junit.Test;
 
+import medium.LCTest;
+
 
 public class LCTestTest {
 

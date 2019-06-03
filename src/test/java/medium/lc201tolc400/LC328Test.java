@@ -4,7 +4,7 @@ package medium.lc201tolc400;
 import org.junit.Test;
 
 import common.ListNode;
-import medium.lc201tolc400.LC328;
+import medium.LC328;
 
 public class LC328Test {
     @Test

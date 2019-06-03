@@ -5,7 +5,7 @@ import java.util.List;
 import org.junit.Test;
 
 import common.TreeNode;
-import medium.lc1tolc200.LC113;
+import medium.LC113;
 
 public class LC113Test {
 

@@ -7,7 +7,7 @@ import java.util.List;
 import org.junit.Assert;
 import org.junit.Test;
 
-import medium.lc1tolc200.LC120;
+import medium.LC120;
 
 public class LC120Test {
 

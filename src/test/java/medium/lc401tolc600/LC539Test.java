@@ -5,7 +5,7 @@ import java.util.Arrays;
 import org.junit.Assert;
 import org.junit.Test;
 
-import medium.lc401tolc600.LC539;
+import medium.LC539;
 
 public class LC539Test {
     @Test

@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-import medium.lc801tolc1000.LC890;
+import medium.LC890;
 
 public class LC890Test {
 

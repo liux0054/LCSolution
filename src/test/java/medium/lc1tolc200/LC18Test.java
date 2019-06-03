@@ -6,7 +6,7 @@ import java.util.List;
 import org.junit.Assert;
 import org.junit.Test;
 
-import medium.lc1tolc200.LC18;
+import medium.LC18;
 
 
 public class LC18Test {

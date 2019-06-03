@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 import common.ListNode;
-import medium.lc801tolc1000.LC817;
+import medium.LC817;
 
 public class LC817Test {
     @Test

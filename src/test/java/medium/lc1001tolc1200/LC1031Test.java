@@ -3,7 +3,7 @@ package medium.lc1001tolc1200;
 import org.junit.Assert;
 import org.junit.Test;
 
-import medium.lc1001tolc1200.LC1031;
+import medium.LC1031;
 
 public class LC1031Test {
 
