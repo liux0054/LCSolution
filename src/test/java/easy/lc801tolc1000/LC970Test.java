@@ -7,7 +7,7 @@ import java.util.List;
 import org.junit.Assert;
 import org.junit.Test;
 
-import easy.lc801tolc1000.LC970;
+import easy.LC970;
 
 public class LC970Test {
 

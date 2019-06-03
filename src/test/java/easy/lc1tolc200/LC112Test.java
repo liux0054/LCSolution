@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 import common.TreeNode;
-import easy.lc1tolc200.LC112;
+import easy.LC112;
 
 public class LC112Test {
     @Test

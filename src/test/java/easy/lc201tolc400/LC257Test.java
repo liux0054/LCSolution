@@ -8,7 +8,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 import common.TreeNode;
-import easy.lc201tolc400.LC257;
+import easy.LC257;
 
 public class LC257Test {
 

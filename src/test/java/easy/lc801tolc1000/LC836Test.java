@@ -3,7 +3,7 @@ package easy.lc801tolc1000;
 import org.junit.Assert;
 import org.junit.Test;
 
-import easy.lc801tolc1000.LC836;
+import easy.LC836;
 
 public class LC836Test {
     @Test

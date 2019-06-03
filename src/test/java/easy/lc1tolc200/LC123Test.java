@@ -3,7 +3,7 @@ package easy.lc1tolc200;
 import org.junit.Assert;
 import org.junit.Test;
 
-import easy.lc1tolc200.LC123;
+import easy.LC123;
 
 public class LC123Test {
 

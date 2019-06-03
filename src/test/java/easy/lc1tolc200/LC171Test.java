@@ -3,6 +3,8 @@ package easy.lc1tolc200;
 import org.junit.Assert;
 import org.junit.Test;
 
+import easy.LC171;
+
 public class LC171Test {
 
     @Test

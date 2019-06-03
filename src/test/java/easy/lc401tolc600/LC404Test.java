@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 import common.TreeNode;
-import easy.lc401tolc600.LC404;
+import easy.LC404;
 
 public class LC404Test {
 

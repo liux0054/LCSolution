@@ -3,7 +3,7 @@ package easy.lc1tolc200;
 import org.junit.Test;
 
 import common.ListNode;
-import easy.lc1tolc200.LC109;
+import easy.LC109;
 
 public class LC109Test {
 

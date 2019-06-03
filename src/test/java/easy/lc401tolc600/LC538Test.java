@@ -3,7 +3,7 @@ package easy.lc401tolc600;
 import org.junit.Test;
 
 import common.TreeNode;
-import easy.lc401tolc600.LC538;
+import easy.LC538;
 
 public class LC538Test {
     @Test
