@@ -2,6 +2,8 @@ package hard.lc1tolc200;
 
 import org.junit.Test;
 
+import hard.LC37;
+
 public class LC37Test {
 
     @Test

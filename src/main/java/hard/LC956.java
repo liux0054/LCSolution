@@ -1,4 +1,4 @@
-package hard.lc801tolc1000;
+package hard;
 
 public class LC956 {
 

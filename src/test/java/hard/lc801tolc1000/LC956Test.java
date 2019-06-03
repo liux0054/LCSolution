@@ -3,7 +3,7 @@ package hard.lc801tolc1000;
 import org.junit.Assert;
 import org.junit.Test;
 
-import hard.lc801tolc1000.LC956;
+import hard.LC956;
 
 public class LC956Test {
 
