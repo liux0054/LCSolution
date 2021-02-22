@@ -20,8 +20,16 @@ public class LC1177 {
 
     private int differenceCharsSymmetry(int start, int end, int[][] charCount) {
         int numberOfOdd = 0;
+        if (start == 0) {
+            for (int i=0; i<26; i++) {
+                if (charCount[end][i] % 2 == 1) {
+                    numberOfOdd++;
+                }
+            }
+            return numberOfOdd;
+        }
         for (int i=0; i<26; i++) {
-            if ((charCount[end][i] - (start > 0 ? charCount[start-1][i] : 0)) % 2 == 1) {
+            if ((charCount[end][i] -  charCount[start-1][i]) % 2 == 1) {
                 numberOfOdd++;
             }
         }
